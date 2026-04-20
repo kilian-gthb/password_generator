@@ -11,7 +11,7 @@ This project was developed to demonstrate core programming principles in Python:
 
 ## ✨ Features
 
-- **Customizable Length**: Define the exact length of your password (minimum 5 characters).
+- **Customizable Length**: Define the exact length of your password (minimum 7 characters).
 - **Optional Character Sets**: Choose whether to include uppercase letters, numbers, or special symbols.
 - **"Bulletproof" Input Handling**: 
   - Prevents `ValueError` when entering non-integer lengths.
@@ -32,9 +32,9 @@ Unlike basic generators, this tool follows a **weighted repartition** to guarant
 
 ### Setup
 1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/kilian-gthb/password_generator.git](https://github.com/kilian-gthb/password_generator.git)
-   ```
+```bash
+git clone https://github.com/kilian-gthb/password_generator.git
+```
    
 2. **Navigate to the directory:**
 ```bash
