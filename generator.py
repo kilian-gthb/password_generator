@@ -63,8 +63,8 @@ if __name__ == "__main__":
     sym = requestValidation("Do you want to include symbols ? (y/n) : ")
 
     
-    resultat = gen_psw(size, capital, nb, sym)
+    result = gen_psw(size, capital, nb, sym)
 
     print("\n------------------------------")
-    print(f"Ton mot de passe généré : {resultat}")
+    print(f"Ton mot de passe généré : {result}")
     print("------------------------------")
