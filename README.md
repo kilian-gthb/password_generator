@@ -37,13 +37,13 @@ Unlike basic generators, this tool follows a **weighted repartition** to guarant
    ```
    
 2. **Navigate to the directory:**
-'''bash
+```bash
 cd password_generator
-'''
+```
 
 ### Execution
-'''bash
+```bash
 python generator.py
-'''
+```
 ---
 *Developed by [Kilian](https://github.com/kilian-gthb)*
